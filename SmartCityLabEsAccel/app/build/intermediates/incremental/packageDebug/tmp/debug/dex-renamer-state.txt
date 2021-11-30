@@ -1,0 +1,4 @@
+#Mon Oct 11 12:42:15 CEST 2021
+base.0=C\:\\Users\\giuliabrugnatti\\Desktop\\smart-cities-laboratorio\\AndroidES\\AndroidES\\LabAndroid.Accelerometro_Docente\\LabAndroid.Accelerometro_Docente\\SmartCityLabEsAccel_docente\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,50 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="it.unibo.scl.esmic.student"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+11-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:7:5-71
+11-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:7:22-68
+12
+13    <application
+13-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:9:5-23:19
+14        android:allowBackup="true"
+14-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:10:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] C:\Users\giuliabrugnatti\.gradle\caches\transforms-2\files-2.1\7f6c41cc2a14c0fbaa8d0166c17dc544\core-1.1.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/ic_launcher"
+17-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:11:9-45
+18        android:label="@string/app_name"
+18-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:12:9-41
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:13:9-40
+21        <activity
+21-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:14:9-22:20
+22            android:name="it.unibo.scl.esmic.student.MainActivity"
+22-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:15:13-67
+23            android:label="@string/app_name" >
+23-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:16:13-45
+24            <intent-filter>
+24-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:17:13-21:29
+25                <action android:name="android.intent.action.MAIN" />
+25-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:18:17-69
+25-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:18:25-66
+26
+27                <category android:name="android.intent.category.LAUNCHER" />
+27-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:20:17-77
+27-->C:\Users\giuliabrugnatti\Desktop\smart-cities-laboratorio\AndroidES\AndroidES\LabAndroid.Microfono_Studente\LabAndroid.Microfono_Studente\SmartCityLabEsMic_studente\app\src\main\AndroidManifest.xml:20:27-74
+28            </intent-filter>
+29        </activity>
+30    </application>
+31
+32</manifest>

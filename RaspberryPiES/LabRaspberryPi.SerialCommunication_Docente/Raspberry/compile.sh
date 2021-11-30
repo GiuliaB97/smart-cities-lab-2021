@@ -1,0 +1,1 @@
+gcc –Wall –o arduino2rasp arduino2rasp.c -lwiringPi

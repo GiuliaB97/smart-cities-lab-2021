@@ -1,0 +1,183 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/tv_acc_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="Lettura valori accelerometro" />
+
+    <RelativeLayout
+        android:id="@+id/rl_acc_values"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_acc_label"
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/tv_x_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="X:" />
+
+        <TextView
+            android:id="@+id/tv_x_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/tv_x_label"
+            android:text="x value" />
+
+        <TextView
+            android:id="@+id/tv_y_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_x_label"
+            android:text="Y:" />
+
+        <TextView
+            android:id="@+id/tv_y_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_y_label"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/tv_y_label"
+            android:text="y value" />
+
+        <TextView
+            android:id="@+id/tv_z_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_y_label"
+            android:text="Z:" />
+
+        <TextView
+            android:id="@+id/tv_z_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_z_label"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/tv_z_label"
+            android:text="z value" />
+    </RelativeLayout>
+    
+    <TextView
+        android:id="@+id/tv_on_table_recogniton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_acc_values"
+        android:layout_marginTop="10dp"
+        android:text="On table Recognition" />
+    
+    <RelativeLayout
+        android:id="@+id/rl_on_table_recognition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_on_table_recogniton"
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/tv_on_table_recognition_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Result: " />
+
+        <TextView
+            android:id="@+id/tv_on_table_recognition_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_on_table_recognition_label"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/tv_on_table_recognition_label"
+            android:text="value" />
+    </RelativeLayout>
+    
+
+    <TextView
+        android:id="@+id/tv_shake_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_on_table_recognition"
+        android:layout_marginTop="10dp"
+        android:text="Shake" />
+
+    <TextView
+        android:id="@+id/tv_shake_value"
+        android:layout_width="match_parent"
+        android:layout_height="42dp"
+        android:layout_below="@+id/tv_shake_label"
+        android:background="@drawable/shake"
+        android:gravity="center"
+        android:text="Shake" />
+
+    <TextView
+        android:id="@+id/tv_act_rec_section_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_shake_value"
+        android:layout_marginTop="10dp"
+        android:text="Activity Recognition" />
+
+    <RelativeLayout
+        android:id="@+id/rl_act_rec"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_act_rec_section_label"
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/tv_act_rec_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Result: " />
+
+        <TextView
+            android:id="@+id/tv_act_rec_value"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_act_rec_label"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/tv_act_rec_label"
+            android:text="value" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_act_rec"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/start_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Start"
+            android:onClick="start" />
+
+        <Button
+            android:id="@+id/stop_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="stop"
+            android:text="Stop" />
+    </LinearLayout>
+
+</RelativeLayout>
