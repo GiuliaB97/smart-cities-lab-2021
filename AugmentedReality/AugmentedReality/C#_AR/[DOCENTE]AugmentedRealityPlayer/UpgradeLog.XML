@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Player">
+</Property><Property Name="File di soluzione" Value="C:\Users\Simone\Desktop\AugmentedRealityPlayer\Player.sln">
+</Property><Property Name="File di opzioni utente" Value="C:\Users\Simone\Desktop\AugmentedRealityPlayer\Player.suo">
+</Property><Property Name="Date" Value="venerdì 23 agosto 2013">
+</Property><Property Name="Time" Value="19:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Player.sln" Description="File salvato come C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Player.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Player.suo" Description="File salvato come C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Player.suo">
+</Event><Event ErrorLevel="0" Project="Player" Source="Player.csproj" Description="Backup del file di progetto creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Player.csproj">
+</Event><Event ErrorLevel="0" Project="Player" Source="MainForm.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="MainForm.Designer.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="Program.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="Properties\AssemblyInfo.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="Properties\Resources.Designer.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="Properties\Settings.Designer.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="URLForm.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\URLForm.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="URLForm.Designer.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\URLForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="VideoCaptureDeviceForm.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\VideoCaptureDeviceForm.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="VideoCaptureDeviceForm.Designer.cs" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\VideoCaptureDeviceForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Player" Source="Properties\Settings.settings" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Player" Source="MainForm.resx" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Player" Source="Properties\Resources.resx" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Player" Source="URLForm.resx" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\URLForm.resx">
+</Event><Event ErrorLevel="0" Project="Player" Source="VideoCaptureDeviceForm.resx" Description="Backup del file creato con nome C:\Users\Simone\Desktop\AugmentedRealityPlayer\Backup\VideoCaptureDeviceForm.resx">
+</Event><Event ErrorLevel="1" Project="Player" Source="Player.csproj" Description="Il progetto è destinato a .NET Framework 2.0 o 3.0. Se il progetto utilizza assembly che richiedono una versione più recente di .NET Framework, la compilazione avrà esito negativo. È possibile modificare la versione di .NET Framework scegliendo Proprietà dal menu Progetto e quindi selezionando una nuova versione nella casella a discesa '.NET Framework'. In Visual Basic, questa opzione si trova nella scheda Compilazione accessibile facendo clic sul pulsante 'Impostazioni del compilatore avanzate'.">
+</Event><Event ErrorLevel="0" Project="Player" Source="Player.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Player" Source="Player.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Player.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Player.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Player" Source="Player.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

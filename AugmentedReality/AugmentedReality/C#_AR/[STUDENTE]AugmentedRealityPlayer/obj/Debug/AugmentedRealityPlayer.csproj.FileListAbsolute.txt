@@ -1,0 +1,154 @@
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\ResGen.read.1.tlog
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\ResGen.write.1.tlog
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Desktop\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\ResGen.read.1.tlog
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\AugmentedRealityPlayer\obj\Debug\ResGen.write.1.tlog
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\ResGen.read.1.tlog
+C:\Users\Simone\Documents\Dottorato\didattica\FrameworkLab\[DOCENTE]AugmentedRealityPlayer\obj\Debug\ResGen.write.1.tlog
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csproj.GenerateResource.Cache
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Desktop\[DOCENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe.config
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AugmentedRealityPlayer.exe.config
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer - Copia\obj\Debug\AugmentedRealityPlayer.csproj.GenerateResource.Cache
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe.config
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Desktop\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csproj.GenerateResource.Cache
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe.config
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.exe
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AugmentedRealityPlayer.pdb
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.dll
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Controls.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Imaging.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Math.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.MainForm.resources
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.Properties.Resources.resources
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.URLForm.resources
+C:\Users\Simone\Dropbox\CorsoSmartCity\Laboratorio\AugmentedReality\[STUDENTE]AugmentedRealityPlayer\obj\Debug\AugmentedRealityPlayer.csproj.GenerateResource.Cache
